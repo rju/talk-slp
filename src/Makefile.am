@@ -1,3 +1,3 @@
-bin_PROGRAMS=a.out
-a_out_SOURCES=talk-slp.c
+bin_PROGRAMS=talk-slp
+talk_slp_SOURCES=talk-slp.c
 
