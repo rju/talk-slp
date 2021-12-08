@@ -1,1 +1,12 @@
-Sample readme file for talk-slp project.
+# Talk-SLP
+
+Talk-SLP converts enriched.md files to slp slide show files which can then be converted to beamer-tex slideshow files.
+It allows to write a presentation from perspective of the speech than rather from the visual presentation which is
+often done and leads to the wrong focus, i.e., the slides are the central element of transporting information instead
+of the speaker.
+
+Thus, talk-slp allows to write the speech in talking points or normal text and the semi-automatically generate slides
+from it.
+
+The tool is in its early stages, it is written in C for the fun of it (most likely it would be easier to write it in
+Python or Perl). 
