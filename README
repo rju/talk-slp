@@ -1,3 +1,5 @@
+The content was merged with the slp tool and moved to https://codeberg.org/prefec2/slp
+
 # Talk-SLP
 
 Talk-SLP converts enriched.md files to slp slide show files which can then be converted to beamer-tex slideshow files.
